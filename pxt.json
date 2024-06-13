@@ -1,0 +1,25 @@
+{
+    "name": "Würfel 4Digit V1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "funk": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.37",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
